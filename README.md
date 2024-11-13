@@ -24,7 +24,7 @@ This project uses OpenCV's Haar Cascade classifier to detect faces in either a s
 ## Installation
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/CV_project.git
+   git clone https://github.com/your-username/CV_P.git
    cd CV_project
    ```
 
