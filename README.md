@@ -30,8 +30,8 @@ This project uses OpenCV's Haar Cascade classifier to detect faces in either a s
 
 2. **Set up a virtual environment (optional but recommended):**
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   python -m venv env
+   source env/Scripts/activate
    ```
 
 3. **Install dependencies:**
